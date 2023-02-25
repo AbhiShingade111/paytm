@@ -1,3 +1,111 @@
 body{
     background-color: #ffffff;
 }
+
+.main-nav{
+    margin-top: 4px;
+    height: 86px;
+}
+
+.pt_logo{
+    width: 182px;
+    height: 55px;
+    margin-left: 55px;
+}
+
+.no-kyc{
+    background: linear-gradient(#e6e9ed,#f6f6f6);
+    height: 50px;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: 550;
+}
+.link-font{
+    font-weight: 550;
+    font-size: 18px;
+    padding: 3px;
+    margin: 0px 10px 0px 0px;
+}
+
+.sign-in-btn{
+    margin-right: 75px;
+    border-radius: 20px;
+    background-color: #00baf2;
+    width: 110px;
+    border: none;
+    color: #ffffff;
+    height: 40px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.logout-img{
+    height: 39px;
+    border-radius: 100%;
+    width: 30px;
+    float: right;
+    margin-right: 0.1em;
+    margin-top: -5px;
+}
+
+.link-font:hover{
+    background-color: #f5f7fa;
+}
+
+.nav-container{
+    margin-left: 63px;
+}
+
+.main-nav{
+    margin-top: 4px;
+    height: 86px;
+}
+
+.pt_logo{
+    width: 182px;
+    height: 55px;
+    margin-left: 55px;
+}
+
+.no-kyc{
+    background: linear-gradient(#e6e9ed,#f6f6f6);
+    height: 50px;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: 550;
+}
+.link-font{
+    font-weight: 550;
+    font-size: 18px;
+    padding: 3px;
+    margin: 0px 10px 0px 0px;
+}
+
+.sign-in-btn{
+    margin-right: 75px;
+    border-radius: 20px;
+    background-color: #00baf2;
+    width: 110px;
+    border: none;
+    color: #ffffff;
+    height: 40px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.logout-img{
+    height: 39px;
+    border-radius: 100%;
+    width: 30px;
+    float: right;
+    margin-right: 0.1em;
+    margin-top: -5px;
+}
+
+.link-font:hover{
+    background-color: #f5f7fa;
+}
+
+.nav-container{
+    margin-left: 63px;
+}
