@@ -109,3 +109,92 @@ body{
 .nav-container{
     margin-left: 63px;
 }
+/*---------------------*/
+.ppi-tag {
+    padding: 80px 7% 25px 7%;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.box-1 {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 80px 50px 80px 115px;
+
+}
+
+.side-l{
+    width: 45%;
+}
+
+.inshurance {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    margin-right: 300px;
+}
+
+.inshurance img {
+    height: 77px;
+    width: auto;
+    margin-right: 12px;
+}
+
+.matter h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 50px 55px 0px 0px;
+
+}
+
+.matter h5 {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 28px;
+    padding: 30px 0px;
+
+}
+
+.down-btn {
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.down-btn a i {
+    color: white;
+    margin-left: 5px;
+}
+
+.down-btn:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.down-btn:hover i{
+    color: #000;
+}
+
+.box-1 > img{
+    width: 539px;
+}
+
+.loan {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    margin-right: 260px;
+}
+
+.loan img {
+    height: 77px;
+    width: auto;
+    margin-right: 12px;
+}
