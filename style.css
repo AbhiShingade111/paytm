@@ -379,3 +379,280 @@ body {
     line-height: 30px;
     margin: 30px 0;
 }
+
+/*---------------------*/
+.ppi-tag {
+    padding: 80px 7% 25px 7%;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.box-1 {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 80px 50px 80px 115px;
+
+}
+
+.side-l{
+    width: 45%;
+}
+
+.inshurance {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    margin-right: 300px;
+}
+
+.inshurance img {
+    height: 77px;
+    width: auto;
+    margin-right: 12px;
+}
+
+.wallet-content h1,
+.upi-content h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 50px 55px 0px 0px;
+
+}
+
+.wallet-content h5,
+.upi-content h5 {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 28px;
+    padding: 30px 0px;
+
+}
+
+.down-btn {
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.down-btn a i {
+    color: white;
+    margin-left: 5px;
+}
+
+.down-btn:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.down-btn:hover i {
+    color: #000;
+}
+
+#wallet-img,
+#upi-img {
+    width: 539px;
+}
+
+.loan {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    margin-right: 260px;
+}
+
+.loan img {
+    height: 77px;
+    width: auto;
+    margin-right: 12px;
+}
+
+
+
+
+.pp img {
+    height: 77px;
+    width: auto;
+    margin-right: 12px;
+}
+
+.pp-content h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 50px 0px 0px 0px;
+
+}
+
+.pp-content h5 {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 28px;
+    padding: 30px 0px;
+
+}
+
+.learn-more-btn {
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    background-color: #002970;
+    color: white;
+}
+
+.learn-more-btn a i {
+    color: white;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+.learn-more-btn:hover {
+    background-color: #00B8F9;
+    border: none;
+    color: white;
+}
+
+#pp-img {
+    width: 443px;
+}
+
+.two-cards{
+    display: flex;
+}
+
+.hdfc-card{
+    width: 545px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 120px 70px 0px 70px;
+    margin-right: 25px;
+} 
+
+.sbi-card{
+    width: 545px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 120px 70px 0px 70px;
+    margin-left: 25px;
+} 
+
+.hdfc img, .sbi img{
+    width: 182px;
+}
+
+.hdfc-content h1{
+    font-size: 40px;
+    font-weight:700;
+    padding: 28px 0px 0px 0px; 
+
+}
+
+.sbi-content h1{
+    font-size: 40px;
+    font-weight:700;
+    padding: 28px 40px 0px 0px; 
+
+}
+
+.hdfc-content h5, .sbi-content h5{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    margin: 30px 0;
+}
+
+/*---------------------*/
+.ppi-tag {
+    padding: 80px 7% 25px 7%;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.box-1 {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 80px 50px 80px 115px;
+
+}
+
+.side-l{
+    width: 45%;
+}
+
+.inshurance {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    margin-right: 300px;
+}
+
+.inshurance img {
+    height: 77px;
+    width: auto;
+    margin-right: 12px;
+}
+
+.matter h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 50px 55px 0px 0px;
+
+}
+
+.matter h5 {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 28px;
+    padding: 30px 0px;
+
+}
+
+.down-btn {
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.down-btn a i {
+    color: white;
+    margin-left: 5px;
+}
+
+.down-btn:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.down-btn:hover i{
+    color: #000;
+}
+
+.box-1 > img{
+    width: 539px;
+}
+
+.loan {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    margin-right: 260px;
+}
+
+.loan img {
+    height: 77px;
+    width: auto;
+    margin-right: 12px;
+}
