@@ -516,3 +516,37 @@ body {
     color: #707070;
     padding-left: 30px ;
 }
+
+
+
+.f-row{
+    margin-bottom: 50px;
+}
+
+.money-image{
+    margin: 60px 50px 50px 50px;
+}
+
+.money-text{
+    margin:60px 0px 0px 0px;
+    width: auto;
+    height: auto;
+}
+
+.pm-text{
+    margin: 10px 0px 20px 0px;
+    height: 300px;
+}
+
+.pm-t{
+    font-size: 40px;
+    font-weight: 800;
+    width: 350px;
+    color: #000;
+}
+
+.pmts{
+    color:#000;
+    font-size: 20px;
+    padding-right: 50px;
+}
